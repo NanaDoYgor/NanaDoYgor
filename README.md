@@ -19,13 +19,13 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="" src="!(https://github.com/NanaDoYgor/NanaDoYgor/assets/164526857/af5aed00-b941-498d-a24f-bd3a9a9135f8)">
+  <img align="center" alt="" src="https://github.com/NanaDoYgor/NanaDoYgor/assets/164526857/7dc9a7bb-9d1c-4be5-85d4-ae5deaf5601b.gif">
 </div>
 
 
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:anna.czajka@escola.pr.gov."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   
 </div>
-  
