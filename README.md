@@ -19,8 +19,9 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="" src="https://github.com/NanaDoYgor/NanaDoYgor/assets/164526857/7dc9a7bb-9d1c-4be5-85d4-ae5deaf5601b.gif">
+  <img align="center" alt="" src="https://github.com/NanaDoYgor/NanaDoYgor/assets/164526857/f169f76c-0b71-4bce-9c09-a8461a4ed3fd">
 </div>
+
 
 
 <div> 
