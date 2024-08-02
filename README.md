@@ -1,7 +1,7 @@
-## Olá! Bem vindo ao Espaço em Branco🕯
+## Secretely a Vulpe
 
 𐙚˙✧˖° 🕸˚ ༘ ⋆｡ ˚
-- Castles 🕊
+- Castles 🍵°`⟡ 
 - 
 ▶︎ •၊၊||၊|။||||| 2:25
 
@@ -9,7 +9,7 @@
 
  Do Ygor
  
-💀ྀིྀིྀིྀིྀི Pronouns: Ela/Dela
+🌸 ྀིྀིྀིྀིྀི Pronouns: Ela/Dela
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaDoYgor&show_icons=true&theme=dracula)
 
@@ -19,8 +19,9 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="" src="https://github.com/user-attachments/assets/6b726cdfccea7cc8f163a4aeee358cae">
-</div>
+  <img align="center" alt="" src="https://github.com/NanaDoYgor/NanaDoYgor/assets/164526857/253b31ff-590b-448c-9ad7-551aa101032a">
+</div>!
+
 
 
 
@@ -29,3 +30,4 @@
   <a href = "mailto:anna.czajka@escola.pr.gov."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
+
