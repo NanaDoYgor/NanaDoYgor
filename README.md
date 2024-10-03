@@ -1,7 +1,7 @@
 ## Secretely a Vulpe
 
-𐙚˙✧˖° 🕸˚ ༘ ⋆｡ ˚
-- All i need - Radiohead 🍵°`⟡ 
+𐙚 ˚🍓⋆ ˚｡⋆୨🍡୧˚
+- All i need - Radiohead °`⟡ 
 - 
 ▶︎ •၊၊||၊|။||||| 3:48
 
@@ -9,7 +9,7 @@
 
  Do Ygor
  
-🌸 ྀིྀིྀིྀིྀི Pronouns: Ela/Dela
+‧ᵎ 🍒  ྀིྀིྀིྀིྀི Pronouns: Ela/Dela
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaDoYgor&show_icons=true&theme=dracula)
 
