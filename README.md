@@ -1,15 +1,15 @@
 ## Secretely a Vulpe
 
-𐙚 ˚🍓⋆ ˚｡⋆୨🍡୧˚
-- All i need - Radiohead °`⟡ 
+𐙚 ˚⋆ ๑˚｡⋆୨୧˚
+-  °`⟡ Cherry Flavoured
 - 
-▶︎ •၊၊||၊|။||||| 3:48
+▶︎ •၊၊||၊|။||||| 3:28
 
 ᶻ 𝗓  Estudando Front End
 
  Do Ygor
  
-‧ᵎ 🍒  ྀིྀིྀིྀིྀི Pronouns: Ela/Dela
+‧ᵎ   ྀིྀིྀིྀིྀི Pronouns: Ela/Dela
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaDoYgor&show_icons=true&theme=dracula)
 
