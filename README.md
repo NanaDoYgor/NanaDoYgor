@@ -1,7 +1,7 @@
 ## 𝐕𝐚𝐦𝐩𝐢𝐫𝐞 🦇🩸
 
 𐙚 ˚⋆ ๑˚｡⋆୨ 🪦 🩸୧˚
--  °`⟡ Cherry Flavoured
+-  °`⟡ Wanna Be - Lil peep
 - 
 ▶︎ •၊၊||၊|။||||| 3:28
 
@@ -19,8 +19,9 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="" src="https://github.com/NanaDoYgor/NanaDoYgor/assets/164526857/253b31ff-590b-448c-9ad7-551aa101032a">
+  <img align="center" alt="" src="https://github.com/NanaDoYgor/NanaDoYgor/assets/164526857/5b1aa9d6-e7f6-4827-9676-dc5066093f48">
 </div>!
+
 
 
 
