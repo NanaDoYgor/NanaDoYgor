@@ -9,7 +9,7 @@
 
  Do Ygor
  
-‧ᵎ   ྀིྀིྀིྀིྀི Pronouns: Ela/Dela
+‧ᵎ   ྀིྀིྀིྀིྀི Pronouns: die/young
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaDoYgor&show_icons=true&theme=dracula)
 
